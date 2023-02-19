@@ -1,5 +1,5 @@
-# Rice-Leaf-Disease-Detection-Using-VGG-16-Model
-Mady by Bhairav Jangid
+# Rice-Leaf-Disease-Detection-Using-VGG-16-Model 
+Made by Bhairav Jangid
 
 Hello Friends !!
 First of all you have to train this vgg-16 model on Google Colab.
